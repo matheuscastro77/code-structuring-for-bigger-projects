@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+https://code-structuring-for-bigger-projects-one.vercel.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
