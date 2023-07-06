@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://code-structuring-for-bigger-projects-one.vercel.app/
+[Code Structuring for Bigger Projects](https://code-structuring-for-bigger-projects-one.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
